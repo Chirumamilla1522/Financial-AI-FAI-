@@ -1,7 +1,3 @@
-Here’s a professional and detailed **README.md** file for your GitHub repository:
-
----
-
 # **Loan Underwriting System**
 
 ## **Overview**
