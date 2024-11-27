@@ -134,11 +134,4 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 ---
 
-## **Contact**
-For any questions or feedback, feel free to reach out:
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
 Let me know if you need further assistance, like adding deployment steps or badges for the README!
